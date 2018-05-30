@@ -1,0 +1,39 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px
+}
+.style-1 {
+  background-image: url(https://designresources.assets.yotako.io/40599ujjht8nwd2.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 1200px;
+  height: 2846px;
+  align-items: center;
+  flex-direction: column
+}
+.style-2 {
+  margin-top: 287px;
+  width: 918px;
+  height: 464px
+}
+.style-3 {
+  margin-top: 264px;
+  width: 910px;
+  height: 511px
+}
+.style-4,
+.style-5 {
+  margin-top: 19px;
+  width: 910px;
+  height: 513px
+}
+.style-5 {
+  margin-top: 16px;
+  height: 511px
+}
